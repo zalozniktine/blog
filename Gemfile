@@ -24,6 +24,8 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'devise' #avtentikacija uporabnika
 
+gem 'commontator' #engine za komentarje
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
