@@ -23,9 +23,9 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'devise' #avtentikacija uporabnika
-
+gem 'jwt'
 gem 'commontator' #engine za komentarje
-
+gem 'simple_command'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
